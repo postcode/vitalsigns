@@ -1,0 +1,11 @@
+name = vitalsigns
+description = 
+version = 0.1
+core = 7.x
+base theme = bootstrap
+
+
+stylesheets[all][] = stylesheets/style.css
+
+scripts[] = js/highcharts.js
+scripts[] = js/chartBuilder.js
